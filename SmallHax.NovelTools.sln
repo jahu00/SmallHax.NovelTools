@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallHax.NovelTools", "SmallHax.NovelTools\SmallHax.NovelTools.csproj", "{E728DFA3-C8F6-4704-8087-9A165029D6AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallHax.NovelTools.Converter", "SmallHax.NovelTools.Converter\SmallHax.NovelTools.Converter.csproj", "{94F2AE99-3D67-43EC-BC42-2706D39E5748}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E728DFA3-C8F6-4704-8087-9A165029D6AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E728DFA3-C8F6-4704-8087-9A165029D6AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E728DFA3-C8F6-4704-8087-9A165029D6AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E728DFA3-C8F6-4704-8087-9A165029D6AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94F2AE99-3D67-43EC-BC42-2706D39E5748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94F2AE99-3D67-43EC-BC42-2706D39E5748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94F2AE99-3D67-43EC-BC42-2706D39E5748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94F2AE99-3D67-43EC-BC42-2706D39E5748}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C53C376B-E763-4390-963B-90A432E589EF}
+	EndGlobalSection
+EndGlobal
